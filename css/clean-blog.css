@@ -17,9 +17,13 @@ h6 {
   font-weight: 800; }
 
 a {
-  color: #404040; }
+  color: #404040;
+  -webkit-transition: color 1s;
+  transition: color 1s; }
   a:hover, a:focus {
-    color: #0085A1; }
+    color: #0085A1;
+    -webkit-transition: color 1s;
+    transition: color 1s; }
 
 a img:hover, a img:focus {
   cursor: -webkit-zoom-in;

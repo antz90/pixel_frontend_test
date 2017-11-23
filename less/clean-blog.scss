@@ -25,9 +25,11 @@ h6 {
 
 a {
 	color: $gray-dark;
+	transition: color 1s;
 	&:hover,
 	&:focus {
 		color: $brand-primary;
+		transition: color 1s;
 	}
 }
 
