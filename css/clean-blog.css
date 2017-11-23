@@ -22,7 +22,7 @@ a {
   -webkit-transition: color 1s;
   transition: color 1s; }
   a:hover, a:focus {
-    color: #0085A1;
+    color: #93C43E;
     -webkit-transition: color 1s;
     transition: color 1s; }
 
@@ -89,11 +89,11 @@ hr.small {
         .navbar-custom.is-fixed .navbar-brand {
           color: #404040; }
           .navbar-custom.is-fixed .navbar-brand:hover, .navbar-custom.is-fixed .navbar-brand:focus {
-            color: #0085A1; }
+            color: #93C43E; }
         .navbar-custom.is-fixed .nav li a {
           color: #404040; }
           .navbar-custom.is-fixed .nav li a:hover, .navbar-custom.is-fixed .nav li a:focus {
-            color: #0085A1; }
+            color: #93C43E; }
       .navbar-custom.is-visible {
         /* if the user changes the scrolling direction, we show the header */
         -webkit-transform: translate3d(0, 100%, 0);
@@ -159,7 +159,7 @@ hr.small {
   color: #404040; }
   .post-preview > a:hover, .post-preview > a:focus {
     text-decoration: none;
-    color: #0085A1; }
+    color: #93C43E; }
   .post-preview > a > .post-title {
     font-size: 30px;
     margin-top: 30px;
@@ -177,7 +177,7 @@ hr.small {
     text-decoration: none;
     color: #404040; }
     .post-preview > .post-meta > a:hover, .post-preview > .post-meta > a:focus {
-      color: #0085A1;
+      color: #93C43E;
       text-decoration: underline; }
 @media only screen and (min-width: 768px) {
   .post-preview > a > .post-title {
@@ -251,7 +251,7 @@ footer {
   opacity: 1; }
 
 .floating-label-form-group-with-focus label {
-  color: #0085A1; }
+  color: #93C43E; }
 
 form .row:first-child .floating-label-form-group {
   border-top: 1px solid #eee; }
@@ -269,8 +269,8 @@ form .row:first-child .floating-label-form-group {
   padding: 25px 35px; }
 
 .btn-default:hover, .btn-default:focus {
-  background-color: #0085A1;
-  border: 1px solid #0085A1;
+  background-color: #93C43E;
+  border: 1px solid #93C43E;
   color: white; }
 
 .pager {
@@ -287,8 +287,8 @@ form .row:first-child .floating-label-form-group {
   .pager li > a:hover,
   .pager li > a:focus {
     color: white;
-    background-color: #0085A1;
-    border: 1px solid #0085A1; }
+    background-color: #93C43E;
+    border: 1px solid #93C43E; }
   .pager .disabled > a,
   .pager .disabled > a:hover,
   .pager .disabled > a:focus,
@@ -300,12 +300,12 @@ form .row:first-child .floating-label-form-group {
 ::-moz-selection {
   color: white;
   text-shadow: none;
-  background: #0085A1; }
+  background: #93C43E; }
 
 ::selection {
   color: white;
   text-shadow: none;
-  background: #0085A1; }
+  background: #93C43E; }
 
 img::-moz-selection {
   color: white;
@@ -320,6 +320,6 @@ img::-moz-selection {
   background: transparent; }
 
 body {
-  webkit-tap-highlight-color: #0085A1; }
+  webkit-tap-highlight-color: #93C43E; }
 
 /*# sourceMappingURL=clean-blog.css.map */
