@@ -46,6 +46,10 @@ hr.small {
   left: 0;
   width: 100%;
   z-index: 3; }
+  .navbar-custom .logo {
+    height: 60px;
+    cursor: auto;
+    display: inline-block; }
   .navbar-custom .navbar-brand {
     font-weight: 800; }
   .navbar-custom .nav li a {
