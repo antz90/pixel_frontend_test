@@ -107,6 +107,7 @@ hr.small {
   background-color: gray;
   background: no-repeat center center;
   background-attachment: scroll;
+  background-size: cover;
   margin-bottom: 50px;
   min-height: 400px; }
   .intro-header .site-heading,
